@@ -1,0 +1,6 @@
+Nano Building-4D_Electronic_Microscope,Communication_Lab,Physics_center,&,NanoScience_Lab,MaterialScience_Lab,Clean_room,First_lecture_rooms_NB,Nano_Technology_Faculty_rooms,&,CIE_department,CIE_Labs,Second_Lecture_rooms_NB,CIE_Faculty_rooms
+Administrative Building-IT_department,&,Cultural_and_administrative_complex,Offices_AdministrativeBuilding,Auditorium,Board_Meeting_room
+Academic Building-cafeteria,CATs_office,clinic,CSAI,Ground_lecture_rooms_AB,&,First_lecture_rooms_AB,girls_lounge,boys_lounge,Library,TAs_rooms_AB,faculty_rooms_AB,&,Second_lecture_rooms_AB,foundation_labs,Control_lab
+Helmy Building-Renewable_energy_lab,environmental_lab,Ground_lecture_rooms_HB,&,FO27_HB,Center for Aging and Associated Diseases,Center of Excellence for Stem Cells Research and Regenerative Medicine,Center for Genomics,biomedical_faculty_rooms,RAs_rooms,&,SO24_HB,phage_center
+Service Building-lost_found_room_SB,Ground_lecture_rooms_SB,Workshop,Engineering Authority,&,First_lecture_rooms_SB,faculty_rooms_SB
+One Stop Shop-Registrar,&,valley_of_science_and_technology

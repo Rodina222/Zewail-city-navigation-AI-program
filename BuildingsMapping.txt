@@ -1,0 +1,27 @@
+Nano Building-NB
+Nano Building1-NB1
+Nano Building2-NB2
+Helmy Building-HB
+Helmy Building1-HB1
+Academic Building-A
+Academic Building A-A
+Academic Building B-B
+Academic Building C-C
+Academic Building D-D
+Academic Building E-E
+Helmy Parking-HP
+Helmy Garden-HG
+Dorms-DCR
+Dorms1-DCR1
+Main Gate-MG
+One Stop Shop-OSB
+One Stop Shop1-OSB1
+Administrative Building-ADB
+Administrative Building1-ADB1
+One Stop Gate-OSG
+Service Gate-SG
+Dorms Gate-DG
+Playground-PG
+Playground1-PG1
+Service Building-SB
+Service Building1-SB
