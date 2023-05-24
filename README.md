@@ -25,6 +25,7 @@ Hill climbing and simulated annealing
 We also used hill climbing or simulated annealing to find the best route between two nodes on the ZC campus. Hill climbing involves starting at a random point and searching for the highest point in the surrounding area, while simulated annealing is a probabilistic variant of hill climbing that allows for occasional moves that decrease the objective function.
 
 * Phase 2:
+
 This phase involves using reinforcement learning, specifically Q-learning, to design a route for an agent to pick up and deliver items from one location to another inside Zewail City (ZC) with the minimum number of steps. The agent starts at the main gate of ZC and needs to pick up items from the NB and HB locations and deliver them to the AB and One-stop-shop locations, respectively.
 
 The project required designing an agent-based system that explores and learns in initially unknown environments. It involves using Q-learning, a type of reinforcement learning algorithm, to learn promising paths for the agent to take in order to complete its task efficiently.
